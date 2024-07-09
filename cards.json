@@ -2,12 +2,12 @@
     "cards": [
         {
             "id": 1,
-            "nombreJoya": "Collar de gemas de lujo",
+            "nombre": "Collar de gemas de lujo",
             "codigo": 26308,
             "precio": 168.76,
             "imagen": "../assets/img/pl-imag-1.jpeg",
-            "descripcion": "",
-            "categoria": "Collares",
+            "descripcion": "Collar de gemas de lujo",
+            "categorias": "Collares",
             "cantidadEnStock": {
                 "45": {
                     "plateado": 16,
@@ -21,12 +21,12 @@
         },
         {
             "id": 2,
-            "nombreJoya": "Anillo Aurora",
+            "nombre": "Anillo Aurora",
             "codigo": 78124,
             "precio": 125.28,
             "imagen": "../assets/img/pl-imag-2.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo Aurora",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 8,
@@ -44,12 +44,12 @@
         },
         {
             "id": 3,
-            "nombreJoya": "Collar Reflejos",
+            "nombre": "Collar Reflejos",
             "codigo": 26321,
             "precio": 620.73,
             "imagen": "../assets/img/pl-imag-3.jpeg",
-            "descripcion": "",
-            "categoria": "Collares",
+            "descripcion": "Collar Reflejos",
+            "categorias": "Collares",
             "cantidadEnStock": {
                "35": {
                     "plateado": 8,
@@ -59,12 +59,12 @@
         },
         {
             "id": 4,
-            "nombreJoya": "Anillo infinito de ensueño",
+            "nombre": "Anillo infinito de ensueño",
             "codigo": 78168,
             "precio": 327.71,
             "imagen": "../assets/img/pl-imag-4.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo infinito de ensueño",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "rosa": 13,
@@ -82,12 +82,12 @@
         },
         {
             "id": 5,
-            "nombreJoya": "Anillo de joyas opulentas",
+            "nombre": "Anillo de joyas opulentas",
             "codigo": 78183,
             "precio": 168.76,
             "imagen": "../assets/img/pl-imag-5.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo de joyas opulentas",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 18,
@@ -105,12 +105,12 @@
         },
         {
             "id": 6,
-            "nombreJoya": "Aretes Solitario Sereno",
+            "nombre": "Aretes Solitario Sereno",
             "codigo": 12008,
             "precio": 125.28,
             "imagen": "../assets/img/pl-imag-6.jpeg",
-            "descripcion": "",
-            "categoria": "Aretes",
+            "descripcion": "Aretes Solitario Sereno",
+            "categorias": "Aretes",
             "cantidadEnStock": {
                 "azul": 8,
                 "rojo": 15
@@ -118,12 +118,12 @@
         },
         {
             "id": 7,
-            "nombreJoya": "Aretes de halo atemporales",
+            "nombre": "Aretes de halo atemporales",
             "codigo": 120179,
             "precio": 620.73,
             "imagen": "../assets/img/pl-imag-7.jpeg",
-            "descripcion": "",
-            "categoria": "Aretes",
+            "descripcion": "Aretes de halo atemporale",
+            "categorias": "Aretes",
             "cantidadEnStock": {
                 "plateado": 8,
                 "dorado": 15
@@ -131,12 +131,12 @@
         },
         {
             "id": 8,
-            "nombreJoya": "Aretes exquisitos",
+            "nombre": "Aretes exquisitos",
             "codigo": 12021,
             "precio": 327.71,
             "imagen": "../assets/img/pl-imag-8.jpeg",
-            "descripcion": "",
-            "categoria": "Aretes",
+            "descripcion": "Aretes exquisitos",
+            "categorias": "Aretes",
             "cantidadEnStock": {
                 "esmeralda": 8,
                 "azul": 7
@@ -144,12 +144,12 @@
         },
         {
             "id": 9,
-            "nombreJoya": "Anillo de elegancia atemporal",
+            "nombre": "Anillo de elegancia atemporal",
             "codigo": 78196,
             "precio": 168.76,
             "imagen": "../assets/img/pl-imag-9.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo de elegancia atemporal",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "violeta": 18,
@@ -167,12 +167,12 @@
         },
         {
             "id": 10,
-            "nombreJoya": "Anillo de encantos de lujo",
+            "nombre": "Anillo de encantos de lujo",
             "codigo": 78205,
             "precio": 620.73,
             "imagen": "../assets/img/pl-imag-10.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo de encantos de lujo",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 3,
@@ -190,12 +190,12 @@
         },
         {
             "id": 11,
-            "nombreJoya": "Anillo de floración dichosa",
+            "nombre": "Anillo de floración dichosa",
             "codigo": 78232,
             "precio": 620.73,
             "imagen": "../assets/img/pl-imag-11.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo de floración dichosa",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 7,
@@ -213,12 +213,12 @@
         },
         {
             "id": 12,
-            "nombreJoya": "Anillo chispeante",
+            "nombre": "Anillo chispeante",
             "codigo": 78241,
             "precio": 168.76,
             "imagen": "../assets/img/pl-imag-12.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo chispeante",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 19,
@@ -236,12 +236,12 @@
         },
         {
             "id": 13,
-            "nombreJoya": "Anillo reluciente",
+            "nombre": "Anillo reluciente",
             "codigo": 78270,
             "precio": 168.76,
             "imagen": "../assets/img/pl-imag-13.jpeg",
-            "descripcion": "",
-            "categoria": "Anillos",
+            "descripcion": "Anillo reluciente",
+            "categorias": "Anillos",
             "cantidadEnStock": {
                 "48": {
                     "plateado": 18,
@@ -258,18 +258,18 @@
             }
         }
     ],
-    "categoria": [
+    "categorias": [
         {
             "id": 1,
-            "nombreJoya": "Collares"
+            "nombre": "Collares"
         },
         {
             "id": 2,
-            "nombreJoya": "Anillos"
+            "nombre": "Anillos"
         },
         {
             "id": 3,
-            "nombreJoya": "Aretes"
+            "nombre": "Aretes"
         }
     ],
     "registroCompras": []   
